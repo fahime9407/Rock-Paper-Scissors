@@ -24,7 +24,6 @@ This is a classic Rock, Paper, Scissors game where the user plays against the co
    ```sh
    cd rock-paper-scissors
 
-
 3. Ensure you have Python installed. This project requires Python 3.x.
 
 
