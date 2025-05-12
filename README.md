@@ -4,14 +4,6 @@
 
 A simple Rock, Paper, Scissors game built with Python and Tkinter.
 
-## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Description
 
 This is a classic Rock, Paper, Scissors game where the user plays against the computer. The game is built using Python and the Tkinter library for the graphical user interface.
@@ -46,25 +38,6 @@ This is a classic Rock, Paper, Scissors game where the user plays against the co
 4. The computer will randomly select its choice, and the result will be displayed.
 5. The game will keep track of the scores and announce the winner after 5 rounds.
 6. Click the "End" button to close the game.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```sh
-   git checkout -b feature-branch
-   ```
-3. Make your changes and commit them:
-   ```sh
-   git commit -m "Add some feature"
-   ```
-4. Push to the branch:
-   ```sh
-   git push origin feature-branch
-   ```
-5. Open a pull request.
 
 ## License
 
