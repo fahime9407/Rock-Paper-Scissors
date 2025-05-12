@@ -1,4 +1,3 @@
-Certainly! Here is a professional `README.md` for your Rock, Paper, Scissors game project:
 
 ```markdown
 # Rock, Paper, Scissors Game
