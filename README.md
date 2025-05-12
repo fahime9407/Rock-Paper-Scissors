@@ -21,8 +21,8 @@ This is a classic Rock, Paper, Scissors game where the user plays against the co
    git clone https://github.com/yourusername/rock-paper-scissors.git
 
 2. Navigate to the project directory:
-
-cd rock-paper-scissors
+   ```sh
+   cd rock-paper-scissors
 
 
 3. Ensure you have Python installed. This project requires Python 3.x.
